@@ -7,6 +7,7 @@ dependencies:
   - colorama
   - cuda-libraries-dev
   - cudatoolkit
+  - cuda-nvcc
   - cython
   - h5py
   - jupyter
